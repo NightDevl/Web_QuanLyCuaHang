@@ -1,3 +1,3 @@
 # Web_QuanLyCuaHang
-# Using JAVA and TOMCAT 9.0
+# Backend using JAVA and server using TOMCAT 9.0
 # Database: MariaDB
